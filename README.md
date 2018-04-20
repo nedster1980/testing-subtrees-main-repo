@@ -1,2 +1,2 @@
-# testing-subtrees-sub-repo
-This is the repo I will use as a "subtree" repo
+# testing-subtrees-main-repo
+This is the main "parent" repo I would like ot subtree off of
